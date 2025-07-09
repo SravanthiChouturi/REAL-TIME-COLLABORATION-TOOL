@@ -87,7 +87,7 @@ npm (Node Package Manager)
 
 cd realtime-collab
 
-git clone 
+git clone https://github.com/SravanthiChouturi/REAL-TIME-COLLABORATION-TOOL.git
 
 2.Install dependencies:
 npm init
